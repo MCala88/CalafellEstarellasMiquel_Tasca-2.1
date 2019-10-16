@@ -1,6 +1,71 @@
-<?xml version "1.0"?>
-<element>
+<?xml version="1.0"?>
+<elemento>
+    <grupo>
+        <nombre>LMFAO</nombre>
+        <fecha>2006</fecha>
+    </grupo>
+    <generos>
+        <genero>EDM</genero>
+        <genero>hip-hop</genero>
+        <genero>electro pop</genero>
+    </generos>
+    <origen>Los Ángeles (California, Estados Unidos)</origen>
+    <web>http://www.lmfaomusic.com/</web>
+    <imagen>https://images-na.ssl-images-amazon.com/images/I/713rAu9zdIL._SX355_.jpg</imagen>
+    <videoclips>
+        <video>https://www.youtube.com/watch?v=KQ6zr6kCPj8</video>
+        <video>https://www.youtube.com/watch?v=wyx6JDQCslE</video>
+        <video>https://www.youtube.com/watch?v=k39ju0Z5VmE</video>
+    </videoclips>
+    <artistas>
+        <artistanombre>RedFoo</artistanombre>
+            <instrumento>Voz</instrumento>
+            <instrumento>Teclado electrico</instrumento>
+        <artistanombre>Sky Blue</artistanombre> 
+            <instrumento>voz</instrumento>   
+    </artistas>
+    <gruposrel>
+        <grupos>Will.i.am</grupos>
+        <grupos>Lil Jon</grupos>
+        <grupos>David Guetta</grupos>
+        <grupos>Madonna</grupos>
+    </gruposrel>
+    <discografia>
+        <album>
+            <albumnombre>Party Rock</albumnombre>
+                <albumfecha>07/07/2019</albumfecha>
+                <discograficas>
+                    <discografica>Interscope Records</discografica>
+                    <discografica>Kon Live Distribution</discografica>
+                </discograficas>
+                <canciones>
+                    <cancion>La La La</cancion>
+                    <cancion>Shots</cancion>
+                    <cancion>Yes</cancion>
+                </canciones>
+            <albumnombre>Sorry for Party Rocking</albumnombre>
+                <albumfecha>21/06/2011</albumfecha>
+                <discograficas>
+                    <discografica>Interscope Records</discografica>
+                    <discografica>Kon Live Distribution</discografica>
+                </discograficas>
+                <canciones>
+                    <cancion>Sorry for Party Rocking</cancion>
+                    <cancion>Party Rock Anthem</cancion>
+                    <cancion>Champagne Shower</cancion>
+                </canciones>
+            <albumnombre>Sexy and I Know It</albumnombre>
+                <albumfecha>23/06/2014</albumfecha>
+                <discograficas>
+                    <discografica>Interscope Records</discografica>
+                    <discografica>Kon Live Distribution</discografica>
+                </discograficas>
+                <canciones>
+                    <cancion>Sexy and I Know It</cancion>
+                    <cancion>One Day</cancion>
+                    <cancion>All night long</cancion>
+                </canciones>
+        </album>
+    </discografia>
 
-
-
-</element>
+</elemento>

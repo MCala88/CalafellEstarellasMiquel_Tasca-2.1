@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <elemento>
+    <!--Información del grupo-->
     <grupo>
         <nombre>LMFAO</nombre>
         <fecha>2006</fecha>
@@ -10,6 +11,7 @@
         <genero>electro pop</genero>
     </generos>
     <origen>Los Ángeles (California, Estados Unidos)</origen>
+    <!--Links del grupo-->
     <web>http://www.lmfaomusic.com/</web>
     <imagen>https://images-na.ssl-images-amazon.com/images/I/713rAu9zdIL._SX355_.jpg</imagen>
     <videoclips>
@@ -17,12 +19,17 @@
         <video>https://www.youtube.com/watch?v=wyx6JDQCslE</video>
         <video>https://www.youtube.com/watch?v=k39ju0Z5VmE</video>
     </videoclips>
+    <!--Información artistas-->
     <artistas>
-        <artistanombre>RedFoo</artistanombre>
+        <artistanombre>
+            RedFoo
             <instrumento>Voz</instrumento>
             <instrumento>Teclado electrico</instrumento>
-        <artistanombre>Sky Blue</artistanombre> 
+        </artistanombre>
+        <artistanombre>
+            Sky Blue
             <instrumento>voz</instrumento>   
+        </artistanombre>
     </artistas>
     <gruposrel>
         <grupos>Will.i.am</grupos>
@@ -30,9 +37,11 @@
         <grupos>David Guetta</grupos>
         <grupos>Madonna</grupos>
     </gruposrel>
+    <!--Información de los albumes y relacionado-->
     <discografia>
         <album>
-            <albumnombre>Party Rock</albumnombre>
+            <albumnombre>
+            Party Rock
                 <albumfecha>07/07/2019</albumfecha>
                 <discograficas>
                     <discografica>Interscope Records</discografica>
@@ -43,7 +52,9 @@
                     <cancion>Shots</cancion>
                     <cancion>Yes</cancion>
                 </canciones>
-            <albumnombre>Sorry for Party Rocking</albumnombre>
+            </albumnombre>
+            <albumnombre>
+            Sorry for Party Rocking
                 <albumfecha>21/06/2011</albumfecha>
                 <discograficas>
                     <discografica>Interscope Records</discografica>
@@ -54,7 +65,9 @@
                     <cancion>Party Rock Anthem</cancion>
                     <cancion>Champagne Shower</cancion>
                 </canciones>
-            <albumnombre>Sexy and I Know It</albumnombre>
+            </albumnombre>
+            <albumnombre>
+            Sexy and I Know It
                 <albumfecha>23/06/2014</albumfecha>
                 <discograficas>
                     <discografica>Interscope Records</discografica>
@@ -65,7 +78,13 @@
                     <cancion>One Day</cancion>
                     <cancion>All night long</cancion>
                 </canciones>
+            </albumnombre>
         </album>
     </discografia>
 
+    <!--Llenguatges de Marques i Sistemes de Gestió d'Informacio-->
+    <!--CalafellEstarellasMiquel_Tarea-2.1-->
+    <!--Miquel Calafell Estarellas-->
+    <!--Idioma "ES"-->
+    <!--Codi de dades UTF-8--> 
 </elemento>
